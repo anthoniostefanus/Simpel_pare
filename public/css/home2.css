@@ -1,0 +1,170 @@
+/*Header*/
+.header-box-blu {
+    background-color: #1B263B;
+    width: 100%;
+    height: 100px;
+    position: absolute; left: 0px; top: 0;
+}
+.poin{
+    width: 28px;
+    height: 28x;
+    position: absolute; top: 10px; left: 10px;
+}
+.fb{
+    width: 28px;
+    height: 28x;
+    position: absolute; top: 10px; left: 95%;
+}.ig{
+    width: 28px;
+    height: 28x;
+    position: absolute; top: 10px; left: 90%;
+}
+.jl{
+    color: rgba(231, 235, 238, 0.63);
+    font-family: Merriweather;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 26px;
+    text-align: left;
+    position: absolute; left: 45px;top: 10px
+    
+}
+.box-abu {
+    background-color: #EFF0EF;
+    width: 100%;
+    height: 420px;
+    position: relative; top: 100px; 
+}
+/*--Header*/
+
+/*Navbar*/
+.nav-box {
+    background-color: #E0E1DD;
+    border-radius: 27px;
+    width: 85%;
+    height: 106px;
+    position: relative; top: 50px; left: 8%;
+}
+.nav-box-menu {
+   background-color: #FFFFFF;
+   width: 80%;
+   height: 60px;
+   position: absolute; top: 22px; left: 15%;
+}
+.salatiga{
+    width: 44px;
+    height: 55px;
+    position: absolute; top: 25px; left: 5%;
+}
+/*--Navbar*/
+
+/*carousel*/
+.carousel-inner{
+    width: 900px;
+    height: 400px;
+    position: absolute; left: 0px; top: 0px;
+}
+.pare {
+    width: 75%;
+    height: 300px;
+    position: absolute; left: 12%; top: 70px;
+}
+/*--carousel*/
+
+
+/*Menu*/
+.login-box {
+    background-color: #1B263B;
+    border-radius: 31px;
+    opacity: 0.94;
+    width: 19%;
+    height: 204px;
+    position: relative; left: 8%; bottom: 100px;
+}
+.register-box {
+    background-color: #1B263B;
+    border-radius: 31px;
+    opacity: 0.94;
+    width: 19%;
+    height: 204px;
+    position: relative; left: 40%; bottom: 303px;
+    
+}
+.kontak-box {
+    background-color: #1B263B;
+    border-radius: 31px;
+    opacity: 0.94;
+    width: 19%;
+    height: 204px;
+    position: relative; left: 72%; bottom:505px;
+}
+.login {
+    width: 32%;
+    height: 80px;
+    position: relative; left: 33%; top: 30px;
+}
+.regis {
+    width: 32%;
+    height: 80px;
+    position: absolute; left: 33%; top: 30px;
+
+}.kontak {
+    width: 32%;
+    height: 80px;
+    position: relative; left: 33%; top: 30px;
+}
+.txt-login {
+    color: #FDFDFF;
+    font-family: Lato;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: left;
+    position: relative; left:2%; top: 55%;
+}
+.txt-register {
+    color: #FDFDFF;
+    font-family: Lato;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: left;
+    position: relative; left: 16%; top: 65%;
+}
+.txt-kontak {
+    color: #FDFDFF;
+    font-family: Lato;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: left;
+    position: relative; left: 36%; top: 50px;
+}
+/*--Menu*/
+
+
+.row{
+    align-items: center;
+    padding-left: auto;
+    padding-right: auto;
+    text-align: center;
+    vertical-align: center;
+    position: relative; bottom: 350px;
+}
+
+.bulat{
+    width:47%;
+    height : 47%;
+
+}
+.txt{
+  color: #000000;
+  font-family: Playfair Display SC;
+  font-size: 18pt;
+}
+.kreatif{
+    position: relative; bottom: 400px;
+}
+.h1{
+    color: #050505;
+    font-family: Playfair Display SC;
+    font-size: 50px;
+    letter-spacing: 6px;
+  }

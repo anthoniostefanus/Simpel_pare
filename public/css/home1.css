@@ -1,0 +1,260 @@
+/*Header*/
+.header-box-blu {
+    background-color: #1B263B;
+    width: 100%;
+    height: 100px;
+    position: absolute; left: 0px; top: 0;
+}
+.poin{
+    width: 28px;
+    height: 28x;
+    position: absolute; top: 10px; left: 10px;
+}
+.fb{
+    width: 28px;
+    height: 28x;
+    position: absolute; top: 10px; left: 95%;
+}.ig{
+    width: 28px;
+    height: 28x;
+    position: absolute; top: 10px; left: 90%;
+}
+.jl{
+    color: rgba(231, 235, 238, 0.63);
+    font-family: Merriweather;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 26px;
+    text-align: left;
+    position: absolute; left: 45px;top: 10px
+}
+.box-abu {
+    background-color: #EFF0EF;
+    width: 100%;
+    height: 420px;
+    position: relative; top: 100px; 
+}
+/*--Header*/
+
+/*Navbar*/
+.nav-box {
+    background-color: #E0E1DD;
+    border-radius: 27px;
+    width: 85%;
+    height: 106px;
+    position: relative; top: 50px; left: 8%;
+}
+.nav-box-menu {
+   background-color: #FFFFFF;
+   width: 80%;
+   height: 60px;
+   position: absolute; top: 22px; left: 15%;
+}
+.salatiga{
+    width: 44px;
+    height: 55px;
+    position: absolute; top: 25px; left: 5%;
+}
+/*--Navbar*/
+
+/*carousel*/
+.carousel-inner{
+    width: 900px;
+    height: 400px;
+    position: absolute; left: 0px; top: 0px;
+}
+.pare {
+    width: 75%;
+    height: 300px;
+    position: absolute; left: 12%; top: 70px;
+}
+/*--carousel*/
+
+
+/*Menu*/
+.login-box {
+    background-color: #1B263B;
+    border-radius: 31px;
+    opacity: 0.94;
+    width: 19%;
+    height: 204px;
+    position: relative; left: 8%; bottom: 100px;
+}
+.register-box {
+    background-color: #1B263B;
+    border-radius: 31px;
+    opacity: 0.94;
+    width: 19%;
+    height: 204px;
+    position: relative; left: 40%; bottom: 303px;
+    
+}
+.kontak-box {
+    background-color: #1B263B;
+    border-radius: 31px;
+    opacity: 0.94;
+    width: 19%;
+    height: 204px;
+    position: relative; left: 72%; bottom:505px;
+}
+.login {
+    width: 32%;
+    height: 80px;
+    position: relative; left: 33%; top: 30px;
+}
+.regis {
+    width: 32%;
+    height: 80px;
+    position: absolute; left: 33%; top: 30px;
+
+}.kontak {
+    width: 32%;
+    height: 80px;
+    position: relative; left: 33%; top: 30px;
+}
+.txt-login {
+    color: #FDFDFF;
+    font-family: Lato;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: left;
+    position: relative; left:2%; top: 55%;
+}
+.txt-register {
+    color: #FDFDFF;
+    font-family: Lato;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: left;
+    position: relative; left: 31%; top: 65%;
+}
+.txt-kontak {
+    color: #FDFDFF;
+    font-family: Lato;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: left;
+    position: relative; left: 36%; top: 50px;
+}
+/*--Menu*/
+
+/*Berita*/
+.h1{
+    color: #050505;
+    font-family: Playfair Display SC;
+    font-size: 50px;
+    letter-spacing: 6px;
+    line-height: 65px;
+    opacity: 0.81;
+    width: 220px;
+    text-align: left;
+    position: absolute; 
+    top: 600px;
+    left: 20px;
+  }
+.card1{
+    max-width: 80%;
+    position: absolute; 
+    top: 700px;
+    left: 20px;
+}
+.card2{
+    max-width: 80%;
+    position: absolute;
+    top: 970px;
+    left: 20px;
+}
+.card-body{
+    background-color: #1B263B;
+}
+.card-title{
+    color: #FFFFFF;
+    font-family: Merriweather;
+    font-size: 30px;
+    text-align: left;
+}
+.card-text{
+    color: #FFFFFF;
+    text-align: left;
+}
+/*--Berita*/
+
+/*Vidio*/
+.box-vidio {
+    background-color: #E0E1DD;
+    width: 100%;
+    height: 650px;
+    position: absolute;
+    top: 1260px;
+}
+.txtVidio{
+    color: #47525E;
+    font-family: Lato;
+    font-size: 40px;
+    line-height: 51px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 50px;
+}
+.vidio1 {
+    position: absolute;
+    left: 5%;
+    top: 200px;
+    width: 40%;
+    height: 300px;
+}
+.vidio2 {
+    position: absolute;
+    left: 55%;
+    top: 200px;
+    width: 40%;
+    height: 300px;
+}
+/*--Vidio*/
+
+/*Kontak*/
+.maps{
+    width :100%;
+    height: 550px;
+}
+.box-txt {
+    background-color: #E0E1DD;
+    width: 40%;
+    height: 450px;
+    position: absolute; left: 55%; top: 120px;
+    border-radius: 27px;
+}
+.txtKontak{
+    color: #050505;
+    font-family: Playfair Display SC;
+    font-size: 50px;
+    letter-spacing: 6px;
+    line-height: 65px;
+    opacity: 0.81;
+    width: 220px;
+    text-align: left;
+    position: relative; 
+    left: 20px;
+}
+.box-kontak{
+    position: relative; 
+    top: 1000px;
+}
+/*--Kontak*/
+
+/*footer*/
+.body {
+    background-color: #E0E1DD;
+    width: 100%;
+    position: relative; 
+    top:970px;
+  }
+.pare1{
+    width: 163px;
+    height: 64px;
+}
+.box-footer{
+    background-color: #1B263B;
+}
+/*--footer*/

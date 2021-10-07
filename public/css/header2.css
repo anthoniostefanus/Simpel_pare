@@ -1,0 +1,70 @@
+.nav1 {
+    background-color: #1B263B;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    top: 0;
+}
+
+.nav2 {
+    background-color: #E0E1DD;
+    border-radius: 27px;
+    width: 972px;
+    height: 106px;
+    position: absolute;
+    top: 50px;
+    left: 145px;
+}
+
+.nav3 {
+    background-color: #FFFFFF;
+    width: 780px;
+    height: 60px;
+    position: absolute;
+    top: 22px;
+    left: 145px;
+}
+
+.salatiga{
+    width: 44px;
+    height: 55px;
+    position: absolute;
+    top: 25px;
+    left: 40px;
+}
+
+.poin{
+    width: 28px;
+    height: 28x;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.fb{
+    width: 28px;
+    height: 28x;
+    position: absolute;
+    top: 10px;
+    left: 1215px;
+
+}.ig{
+    width: 28px;
+    height: 28x;
+    position: absolute;
+    top: 10px;
+    left: 1145px;
+}
+
+.jl{
+    color: rgba(231, 235, 238, 0.63);
+    font-family: Merriweather;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 26px;
+    text-align: left;
+    position: absolute;
+    left: 45px;
+    top: 10px
+  }

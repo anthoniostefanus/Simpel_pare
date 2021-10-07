@@ -1,0 +1,54 @@
+.card-body{
+  background-color: #1B263B;
+}
+
+.h3-txt{
+  color: #F2F2F2;
+  font-family: Cardo;
+  font-size: 34px;
+  letter-spacing: 2px;
+  line-height: 44px;
+  width: 495px;
+}
+.h5-txt{
+  color: #FEFEFE;
+  font-family: Cardo;
+  font-size: 23px;
+  letter-spacing: 2px;
+  line-height: 29px;
+  opacity: 0.45;
+  width: 319px;
+  text-align: left;
+}
+.btn{
+  background-color: #B76E1F;
+  border-radius: 38px;
+  width: 110px;
+  height: 36px;
+}
+
+.txt-gabung{
+  color: #FFFFFF;
+  font-family: Playfair Display SC;
+  font-size: 18px;
+  line-height: 23px;
+  width: 79px;
+}
+.login-login{
+  width: 26px;
+  height: 26px;
+}
+.login-pare{
+  width: 450px;
+  height: 297px;
+  position: absolute;
+  top: 20px;
+  left:20px;
+
+}
+.bg-login{
+  background-color: #E0E1DD;
+  width: 482px;
+  height: 349px;
+
+}
